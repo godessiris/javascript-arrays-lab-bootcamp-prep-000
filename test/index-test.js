@@ -66,3 +66,4 @@ describe('Arrays', function() {
       expect(window.kittens).toEqual(["Milo", "Otis", "Garfield"])
     })
   })
+})
